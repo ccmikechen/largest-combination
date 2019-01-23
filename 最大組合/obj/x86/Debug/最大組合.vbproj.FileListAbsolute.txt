@@ -1,0 +1,9 @@
+I:\最大組合\最大組合\bin\Debug\最大組合.exe
+I:\最大組合\最大組合\bin\Debug\最大組合.pdb
+I:\最大組合\最大組合\bin\Debug\最大組合.xml
+I:\最大組合\最大組合\obj\x86\Debug\最大組合.Form1.resources
+I:\最大組合\最大組合\obj\x86\Debug\最大組合.Resources.resources
+I:\最大組合\最大組合\obj\x86\Debug\最大組合.vbproj.GenerateResource.Cache
+I:\最大組合\最大組合\obj\x86\Debug\最大組合.exe
+I:\最大組合\最大組合\obj\x86\Debug\最大組合.xml
+I:\最大組合\最大組合\obj\x86\Debug\最大組合.pdb
